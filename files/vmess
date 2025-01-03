@@ -1,10 +1,9 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+# Develovers » Toxic࿐
+# Email      » johntezali56@gmail.com
+# telegram   » https://t.me/ghuruali
+# whatsapp   » wa.me//254716637803
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Gemilangkinasih࿐
 
