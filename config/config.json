@@ -1,4 +1,4 @@
-  {
+no  {
   "log": {
     "loglevel": "warning",
     "error": "/var/log/xray/error.log",
@@ -317,7 +317,7 @@
         },
         "8.8.8.8",
         {
-          "address": "114.114.114.114",
+          "address": "194.163.185.16",
           "port": 53,
           "domains": ["geosite:cn", "geosite:category-games@cn"],
           "expectIPs": ["geoip:cn"],
